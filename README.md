@@ -1,6 +1,7 @@
-<h2>BitGo Client
+<h2>BitGo Client</h2>
 
-<h3>Usage
+<h3>Usage</h3>
+
 
 
 1. Get `access_token` from test.bitgo.com or www.bitgo.com
