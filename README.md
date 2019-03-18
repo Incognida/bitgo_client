@@ -10,7 +10,7 @@
 
 3. `go build main.go`
 
-4. `./cmd -token=access_token `, `isProd` flag can be added if you wish to use production API (don't forget to use production API access token)
+4. `./main -token=access_token `, `isProd` flag can be added if you wish to use production API (don't forget to use production API access token)
 
 
 
